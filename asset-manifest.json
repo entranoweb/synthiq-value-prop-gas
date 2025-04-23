@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/synthiq-value-prop-gas/static/css/main.a071a20d.css",
-    "main.js": "/synthiq-value-prop-gas/static/js/main.f23c8d31.js",
+    "main.css": "/synthiq-value-prop-gas/static/css/main.2bb0053b.css",
+    "main.js": "/synthiq-value-prop-gas/static/js/main.c9c1a6e2.js",
     "static/js/453.be6137f1.chunk.js": "/synthiq-value-prop-gas/static/js/453.be6137f1.chunk.js",
     "index.html": "/synthiq-value-prop-gas/index.html",
-    "main.a071a20d.css.map": "/synthiq-value-prop-gas/static/css/main.a071a20d.css.map",
-    "main.f23c8d31.js.map": "/synthiq-value-prop-gas/static/js/main.f23c8d31.js.map",
+    "main.2bb0053b.css.map": "/synthiq-value-prop-gas/static/css/main.2bb0053b.css.map",
+    "main.c9c1a6e2.js.map": "/synthiq-value-prop-gas/static/js/main.c9c1a6e2.js.map",
     "453.be6137f1.chunk.js.map": "/synthiq-value-prop-gas/static/js/453.be6137f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a071a20d.css",
-    "static/js/main.f23c8d31.js"
+    "static/css/main.2bb0053b.css",
+    "static/js/main.c9c1a6e2.js"
   ]
 }
